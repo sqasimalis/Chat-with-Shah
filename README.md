@@ -9,7 +9,7 @@ A simple and interactive chatbot powered by Phidata and Groq that allows users t
 - Natural language interface to query structured personal data
 - Markdown-formatted responses
 - Auto-installs dependencies
-- Uses Groq's DeepSeek LLaMA 70B model via the Phi framework
+- Uses Groq's DeepSeek LLaMA 70B model via the Phidata framework
 - Built with Streamlit for a sleek UI
 
 ---
